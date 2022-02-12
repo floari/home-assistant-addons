@@ -7,7 +7,7 @@
   "image": "floari89/paperless-ng-addon-{arch}",
   "webui": "http://[HOST]:[PORT:8000]",
   "stage": "stable",
-  "arch": "amd64",
+  "arch": ["amd64"],
   "startup": "system",
   "boot": "auto",
   "ports": {
