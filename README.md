@@ -9,7 +9,7 @@ In the Home Assistant add-on store, a possibility to add a repository is provide
 Use the following URL to add this repository:
 
 ```
-https://github.com/TheBestMoshe/home-assistant-addons
+https://github.com/floari/home-assistant-addons
 ```
 
 ## Add-ons provided by this repository
@@ -18,9 +18,6 @@ https://github.com/TheBestMoshe/home-assistant-addons
 
 [Docs](paperless-ng/DOCS.md)
 
-
-## Develop on Gitpod
-I use [Gitpod](https://gitpod.io/) to develop my Home Assistant addons. Use the commands listed below to build and run the addons.
 
 ### Paperless-ng
 
