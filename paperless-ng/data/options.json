@@ -5,7 +5,7 @@
         "password": "password123"
     },
     "ocr": {
-        "language": "eng"
+        "language": "deu"
     },
     "filename": {
         "format": "{created_year}/{correspondent}/{title}"
